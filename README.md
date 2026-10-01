@@ -1,4 +1,4 @@
-# bouldering-scoring-analysis
+# olympic-athletics-100m-reaction-time
 Data and code for the analysis of reaction time changes in 100m sprinters after the 2010 false start rule change
 ## Data Source
 
